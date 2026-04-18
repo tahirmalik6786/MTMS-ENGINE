@@ -1,0 +1,1 @@
+fastapi==0.87.0\npandas==1.5.3\npsycopg2==2.9.5\nsqlalchemy==1.4.46\nstreamlit==1.10.0\n# Add other necessary dependencies here
